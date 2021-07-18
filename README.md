@@ -12,6 +12,9 @@ For this weeks homework I worked on creating a password generator using JavaScri
 7) Do you want symbols?
 8) Copy password and use
 
+Sceenshot of website:
+
+![Webpage](Screenshot.png)
 
 ## Links
 * https://github.com/Aaron8907/Homework03
