@@ -22,6 +22,10 @@ Sceenshot of website:
 ![Webpage](Screenshot.PNG)
 ![Webpage](web.gif)
 
+## Contact
+* [Email](mailto:i.q.marquez@live.com)
+* [LinkedIn](https://www.linkedin.com/in/aaron-marquez-897866140/)
+
 ## Links
 * https://github.com/Aaron8907/Homework03
 * https://aaron8907.github.io/Homework03/
