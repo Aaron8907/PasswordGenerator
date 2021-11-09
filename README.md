@@ -23,7 +23,6 @@ Sceenshot of website:
 ![Webpage](web.gif)
 
 ## Contact
-* [Email](mailto:i.q.marquez@live.com)
 * [LinkedIn](https://www.linkedin.com/in/aaron-marquez-897866140/)
 
 ## Links
