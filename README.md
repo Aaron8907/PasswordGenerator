@@ -20,6 +20,7 @@ For this weeks homework I worked on creating a password generator using JavaScri
 Sceenshot of website:
 
 ![Webpage](Screenshot.PNG)
+![Webpage](web.gif)
 
 ## Links
 * https://github.com/Aaron8907/Homework03
