@@ -1,4 +1,4 @@
-# Homework03
+# Password Generator
 
 For this weeks homework I worked on creating a password generator using JavaScript.
 
